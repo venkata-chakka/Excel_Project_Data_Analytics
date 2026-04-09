@@ -15,4 +15,4 @@ As a job seeker, I set out to understand what skills are most asked for and lead
 
 <img width="1073" height="659" alt="Screenshot 2026-04-08 102340" src="https://github.com/user-attachments/assets/b426d5ab-4503-455a-844b-69efa2ca83aa" />
 
-<img width="776" height="537" alt="Screenshot 2026-04-08 102408" src="https://github.com/user-attachments/assets/077dc689-40d3-48b9-8ea9-38bb7e3d7c42" />
+<img width="584" height="396" alt="Screenshot 2026-04-09 130157" src="https://github.com/user-attachments/assets/cda9a9fb-1267-4b17-a43e-fb79dd9c20e0" />
