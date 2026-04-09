@@ -7,7 +7,7 @@
 I developed this dashboard to practice and master advanced Excel concepts, using real-world data to explore how job titles and locations influence salary trends in 
 the data industry.
 
-This project was inspired by my Excel course, providing a hands-on foundation in analyzing data with this powerful tool. 
+This project was inspired by the [Excel course](https://www.lukebarousse.com/), providing a hands-on foundation in analyzing data with this powerful tool. 
 
 ### Dashboard File
 My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard_2025.xlsx).
